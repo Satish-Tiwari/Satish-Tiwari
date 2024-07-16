@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @Satish-Tiwari
-- 👀 I’m interested in problem solving using Data Structure and Algorithm Concepts.
-- 🌱 I’m currently learning DSA and development using React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Satish Tiwari! 👋
 
-<!---
-Satish-Tiwari/Satish-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+👨‍💻 I am passionate about problem-solving using Data Structures and Algorithms. I enjoy diving into complex problems and finding efficient solutions.
+
+🌱 My tech interests span across Node.js, Next.js, React.js, SQL, Java, Mongoose, Express.js, and the complete Software Development Life Cycle (SDLC).
+
+💼 I am currently engaged in Software Engineering, eager to acquire new skills and tackle real-world challenges.
+
+## Skills
+
+- **Languages:** JavaScript (Node.js, React.js, Next.js), Java, C++ and Python 
+- **Frameworks & Libraries:** Express.js, Next.js, React.js
+- **Databases:** SQL (MySQL, PostgreSQL), Mongoose
+- **Tools & Technologies:** Git, VS Code, RESTful APIs, Agile Methodologies
+
+## Projects
+
+🚀 Here are a few projects I am proud of:
+
+- **Ecommerce (Website) Using Sentiment Analysis:** https://github.com/Satish-Tiwari/Major-Project
+- **Sentiment Server:** https://github.com/Satish-Tiwari/sentimentServer
+
+## Get in Touch
+
+📫 You can reach me via:
+
+- LinkedIn: [Satish Tiwari](https://www.linkedin.com/in/satish-tiwari-096435203/)
+- GitHub: [@Satish-Tiwari](https://github.com/Satish-Tiwari)
+- Email: tiwarisatish985@gmail.com
+
+📫 You can reach me via:
+
+- GeeksForGeeks: https://www.geeksforgeeks.org/user/tiwarisatish985/
+- LeetCode: https://leetcode.com/u/Satish-Tiwari/
+- CodeChef: https://www.codechef.com/users/tiwari_985
+
+Let's connect and explore opportunities to work together!
