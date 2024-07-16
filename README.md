@@ -27,8 +27,9 @@
 📫 You can reach me via:
 
 - LinkedIn: [Satish Tiwari](https://www.linkedin.com/in/satish-tiwari-096435203/)
-- GitHub: [@Satish-Tiwari](https://github.com/Satish-Tiwari)
 - Email: tiwarisatish985@gmail.com
+- GitHub: [@Satish-Tiwari](https://github.com/Satish-Tiwari)
+- GitLab: [@Satish-Tiwari](https://gitlab.com/tiwarisatish985)
 
 📫 Coding Profile:
 
