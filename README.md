@@ -30,7 +30,7 @@
 - GitHub: [@Satish-Tiwari](https://github.com/Satish-Tiwari)
 - Email: tiwarisatish985@gmail.com
 
-📫 You can reach me via:
+📫 Coding Profile:
 
 - GeeksForGeeks: https://www.geeksforgeeks.org/user/tiwarisatish985/
 - LeetCode: https://leetcode.com/u/Satish-Tiwari/
