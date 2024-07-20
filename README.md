@@ -13,7 +13,7 @@
 - **Languages:** JavaScript (Node.js, React.js, Next.js), Java, C++ and Python 
 - **Frameworks & Libraries:** Express.js, Next.js, React.js
 - **Databases:** SQL (MySQL, PostgreSQL), Mongoose
-- **Tools & Technologies:** Git, VS Code, RESTful APIs, Agile Methodologies
+- **Tools & Technologies:** Git, Docker, VS Code, RESTful APIs, Agile Methodologies
 
 ## Projects
 
