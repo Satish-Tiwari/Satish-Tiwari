@@ -11,9 +11,10 @@
 ## Skills
 
 - **Languages:** JavaScript/TypeScript, Java, C++ and Python 
-- **Frameworks & Libraries:** Express.js, Next.js, React.js
-- **Databases:** SQL (MySQL, PostgreSQL), Mongoose
-- **Tools & Technologies:** Git, Docker, VS Code, RESTful APIs, Agile Methodologies
+- **Frontend Frameworks & Libraries:** React.js, Next.js, Redux
+- **Backend Frameworks & Libraries:** Express.js, NestJS
+- **Databases:** SQL (MySQL, PostgreSQL), MongoDB (Mongoose)
+- **Tools & Technologies:** Git, Docker, VS Code, RESTful APIs, AWS Services, Agile Methodologies
 
 ## Projects
 
