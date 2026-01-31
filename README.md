@@ -1,42 +1,81 @@
-# Hi there, I'm Satish Tiwari! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Satish+Tiwari;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-## About Me
+<h1 align="center">Satish Tiwari</h1>
 
-👨‍💻 I am passionate about problem-solving using Data Structures and Algorithms. I enjoy diving into complex problems and finding efficient solutions.
+<div align="center">
+  <a href="https://www.linkedin.com/in/satish-tiwari-096435203/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tiwarisatish985@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://hub.docker.com/u/tiwarisatish985">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
+  </a>
+  <a href="https://gitlab.com/tiwarisatish985">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+</div>
 
-🌱 My tech interests span across Node.js, Next.js, React.js, SQL, Java, Mongoose, Express.js, and the complete Software Development Life Cycle (SDLC).
+<br />
 
-💼 I am currently engaged in Software Engineering, eager to acquire new skills and tackle real-world challenges.
+## 👨‍💻 About Me
 
-## Skills
+I am a passionate Software Engineer with a strong foundation in **Data Structures and Algorithms**. I thrive on solving complex problems and building efficient, scalable solutions. Currently, I am expanding my expertise in full-stack development and modern cloud technologies.
 
-- **Languages:** JavaScript/TypeScript, Java, C++ and Python 
-- **Frontend Frameworks & Libraries:** React.js, Next.js, Redux
-- **Backend Frameworks & Libraries:** Express.js, NestJS
-- **Databases:** SQL (MySQL, PostgreSQL), MongoDB (Mongoose)
-- **Tools & Technologies:** Git, Docker, VS Code, RESTful APIs, AWS Services, Agile Methodologies
+- 🌱 I’m currently exploring **Advanced System Design** and **Microservices**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 💬 Ask me about **Next.js, NestJS, WooCommerce and DSA**.
+- ⚡ Fun fact: I love finding optimal solutions to coding challenges!
 
-## Projects
+<br />
 
-🚀 Here are a few projects I am proud of:
+## 🛠️ Tech Stack
 
-- **Ecommerce (Website) Using Sentiment Analysis:** https://github.com/Satish-Tiwari/Major-Project
-- **Sentiment Server:** https://github.com/Satish-Tiwari/sentimentServer
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,react,nextjs,redux,html,css" />
+  </a>
+  <br />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgres,mongodb,firebase" />
+  </a>
+  <br />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux" />
+  </a>
+</div>
 
-## Get in Touch
+<br />
 
-📫 You can reach me via:
+## 🏆 Coding Profiles
 
-- LinkedIn: [Satish Tiwari](https://www.linkedin.com/in/satish-tiwari-096435203/)
-- Email: tiwarisatish985@gmail.com
-- GitHub: [@Satish-Tiwari](https://github.com/Satish-Tiwari)
-- GitLab: [@Satish-Tiwari](https://gitlab.com/tiwarisatish985)
-- Docker Hub: [@Satish-Tiwari](https://hub.docker.com/u/tiwarisatish985)
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/user/tiwarisatish985/">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Satish-Tiwari/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/tiwari_985">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
 
-📫 Coding Profile:
+<br />
 
-- GeeksForGeeks: https://www.geeksforgeeks.org/user/tiwarisatish985/
-- LeetCode: https://leetcode.com/u/Satish-Tiwari/
-- CodeChef: https://www.codechef.com/users/tiwari_985
+## 📂 Featured Projects
 
-Let's connect and explore opportunities to work together!
+- **[Ecommerce Sentiment Analysis](https://github.com/Satish-Tiwari/Major-Project)**: Integrating sentiment analysis into an ecommerce platform.
+- **[Sentiment Server](https://github.com/Satish-Tiwari/sentimentServer)**: Backend service for sentiment analysis processing.
+
+<br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
