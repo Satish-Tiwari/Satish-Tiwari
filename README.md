@@ -27,7 +27,7 @@ I am a passionate Software Engineer with a strong foundation in **Data Structure
 
 - 🌱 I’m currently exploring **Advanced System Design** and **Microservices**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Next.js, NestJS, WooCommerce and DSA**.
+- 💬 Ask me about **Next.js, Spring Boot, WooCommerce and DSA**.
 - ⚡ Fun fact: I love finding optimal solutions to coding challenges!
 
 <br />
