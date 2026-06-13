@@ -74,8 +74,7 @@ I am a passionate **Software Engineer** with a strong foundation in **Data Struc
 ## 📂 Featured Projects
 
 - **[Dark Store E-Commerce](https://github.com/Satish-Tiwari/dark-store-ecommerce)**: Dark Store is a smart e-commerce platform that uses Sentiment Analysis to evaluate customer reviews and understand user emotions in real time. It dynamically ranks products based on positive feedback, ensuring a more trustworthy and personalized shopping experience.
-- **[Instant Chatbot](https://github.com/Satish-Tiwari/InstantChatbot)**: A SaaS platform that transforms any website into a deployable AI-powered chatbot. Enter a URL, and the system crawls the website, builds a RAG knowledge base using **Spring AI + PGVector**, and generates a complete chatbot package ready for deployment.
-
+- **[StoreMetrics](https://github.com/Satish-Tiwari/StoreMetrics)**: StoreMetrics is an AI-driven WooCommerce analytics dashboard. Track real-time revenue, monitor customer retention, and get automated business insights to grow your e-commerce store.
 <br />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
