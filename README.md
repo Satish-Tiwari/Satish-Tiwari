@@ -28,7 +28,7 @@ I am a passionate **Software Engineer** with a strong foundation in **Data Struc
 - 🌱 I’m currently exploring **Advanced System Design**, **Microservices**, and **AI-driven development workflows**.
 - 🤖 I am actively learning about **AI applications in coding** and **AI infrastructure for modern programming**, including model integration, automation, and scalable AI systems.
 - 👯 I’m looking to collaborate on **Open Source Projects** that involve backend systems, full-stack applications, or AI-powered solutions.
-- 💬 Ask me about **Next.js, NestJS, WooCommerce, DSA, and modern development practices**.
+- 💬 Ask me about **WooCommerce, Spring Boot, Spring Security, Spring Data, Spring Cloud, Spring AI, ReactJS, NextJS, DSA, and modern development practices**.
 - ⚡ Fun fact: I love finding optimal solutions to coding challenges and optimizing system performance.
 
 <br />
